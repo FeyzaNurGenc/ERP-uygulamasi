@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ERP\\ERP.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|c:\\erp\\erp.server\\erp.server.application\\features\\orders\\requirementsplanningbyorderid\\requirementsplanningbyorderidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|solutionrelative:erp.server.application\\features\\orders\\requirementsplanningbyorderid\\requirementsplanningbyorderidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|c:\\erp\\erp.server\\erp.server.application\\features\\products\\getallproduct\\getallproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|solutionrelative:erp.server.application\\features\\products\\getallproduct\\getallproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|c:\\erp\\erp.server\\erp.server.application\\features\\invoices\\createinvoice\\createinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|solutionrelative:erp.server.application\\features\\invoices\\createinvoice\\createinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|c:\\erp\\erp.server\\erp.server.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|solutionrelative:erp.server.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC22F2BB-9C96-4ACE-A4A1-FE63D34DAA2E}|ERP.Server.Domain\\ERP.Server.Domain.csproj|c:\\erp\\erp.server\\erp.server.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC22F2BB-9C96-4ACE-A4A1-FE63D34DAA2E}|ERP.Server.Domain\\ERP.Server.Domain.csproj|solutionrelative:erp.server.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC22F2BB-9C96-4ACE-A4A1-FE63D34DAA2E}|ERP.Server.Domain\\ERP.Server.Domain.csproj|c:\\erp\\erp.server\\erp.server.domain\\entities\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC22F2BB-9C96-4ACE-A4A1-FE63D34DAA2E}|ERP.Server.Domain\\ERP.Server.Domain.csproj|solutionrelative:erp.server.domain\\entities\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|c:\\erp\\erp.server\\erp.server.application\\features\\products\\getallproduct\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|solutionrelative:erp.server.application\\features\\products\\getallproduct\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|c:\\erp\\erp.server\\erp.server.application\\features\\products\\getallproduct\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A9BBF-D203-4553-9BF7-D9B0129E1BBC}|ERP.Server.Application\\ERP.Server.Application.csproj|solutionrelative:erp.server.application\\features\\products\\getallproduct\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\ERP\\ERP.Server\\ERP.Server.Domain\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "ERP.Server.Domain\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\ERP\\ERP.Server\\ERP.Server.Domain\\Entities\\Invoice.cs",
+              "RelativeToolTip": "ERP.Server.Domain\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:19:54.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "C:\\ERP\\ERP.Server\\ERP.Server.Domain\\Entities\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "ERP.Server.Domain\\Entities\\InvoiceDetail.cs",
+              "ToolTip": "C:\\ERP\\ERP.Server\\ERP.Server.Domain\\Entities\\InvoiceDetail.cs",
+              "RelativeToolTip": "ERP.Server.Domain\\Entities\\InvoiceDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:19:51.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequirementsPlanningByOrderIdCommand.cs",
+              "DocumentMoniker": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "RelativeDocumentMoniker": "ERP.Server.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "ToolTip": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "RelativeToolTip": "ERP.Server.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:03:07.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateInvoiceCommandHandler.cs",
+              "DocumentMoniker": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERP.Server.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "ToolTip": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "RelativeToolTip": "ERP.Server.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:33:46.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateInvoiceCommand.cs",
+              "DocumentMoniker": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "RelativeDocumentMoniker": "ERP.Server.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "ToolTip": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "RelativeToolTip": "ERP.Server.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:33:39.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryResponse.cs",
+              "ToolTip": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryResponse.cs",
+              "RelativeToolTip": "ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:21:24.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "ToolTip": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "RelativeToolTip": "ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:31:06.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllProductQuery.cs",
+              "DocumentMoniker": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "RelativeDocumentMoniker": "ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "ToolTip": "C:\\ERP\\ERP.Server\\ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "RelativeToolTip": "ERP.Server.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:30:51.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

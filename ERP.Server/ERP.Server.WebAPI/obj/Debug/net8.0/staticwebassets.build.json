@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aqwmiybF3YFRwhY8qzz+s2SmdXkhym8ZCDEx+Y/zooA=",
+  "Source": "ERP.Server.WebAPI",
+  "BasePath": "_content/ERP.Server.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
